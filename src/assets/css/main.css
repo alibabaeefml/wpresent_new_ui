@@ -1,0 +1,13 @@
+/* ---------- Globals ---------- */
+:root {
+    --blue: #5000ff,
+        --purple:#8a00ff,
+        --lightpurple:#ba9ee1,
+        --silver:#f7f5f9,
+}
+
+
+/* ---------- Individuals ---------- */
+.wrapper {
+    font-family: opensans, yekanbakh;
+}
