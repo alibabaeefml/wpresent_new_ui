@@ -12,6 +12,9 @@ module.exports = {
         lightpurple: "#ba9ee1",
         silver: "#f7f5f9",
       },
+      boxShadow:{
+        sample_shadow:"0px 0px 49px -4px #8a00ff"
+      }
     },
   },
   plugins: [],
